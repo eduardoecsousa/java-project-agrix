@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/home/eduardo/git/java-026-java-projeto-final-agrix-fase-c/src/main/java/com/betrybe/agrix/controllers/FertilizerController.java">
+</file>
+<file name="/home/eduardo/git/java-026-java-projeto-final-agrix-fase-c/src/main/java/com/betrybe/agrix/controllers/CropController.java">
+</file>
+<file name="/home/eduardo/git/java-026-java-projeto-final-agrix-fase-c/src/main/java/com/betrybe/agrix/models/entities/Person.java">
+</file>
+<file name="/home/eduardo/git/java-026-java-projeto-final-agrix-fase-c/src/main/java/com/betrybe/agrix/util/security/Role.java">
+</file>
+<file name="/home/eduardo/git/java-026-java-projeto-final-agrix-fase-c/src/main/java/com/betrybe/agrix/util/SecurityConfiguration.java">
+</file>
+</checkstyle>
